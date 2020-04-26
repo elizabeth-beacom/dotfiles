@@ -1,5 +1,7 @@
 [user]
 	name = Elizabeth Beacom
+	email = 20716418+elizabeth-beacom@users.noreply.github.com
+	signingKey =
 
 [core]
 	editor = vim
@@ -23,3 +25,6 @@
 	added = yellow
 	changed = green
 	untracked = red
+
+[commit]
+	gpgSign = true
