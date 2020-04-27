@@ -1,0 +1,15 @@
+# --
+#
+#
+
+# Setup oh-my-zsh install
+export ZSH="~/.oh-my-zsh"
+
+# Set my theme
+ZSH_THEME="bira"
+
+# Plugins
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
