@@ -9,7 +9,7 @@ export ZSH="~/.oh-my-zsh"
 ZSH_THEME="bira"
 
 # Plugins
-plugins=(git)
+plugins=(safe-past git)
 
 source $ZSH/oh-my-zsh.sh
 
